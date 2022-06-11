@@ -12,7 +12,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-#      ratio: 191:100      
+#      Erison Rosa de Oliveira Barros
 # knit: pagedown::chrome_print
 # pagedown::chrome_print("docs/introR/index.html", timeout = 120)
 ---
